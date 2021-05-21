@@ -210,7 +210,7 @@
   
   @font-face {
     font-family: "Croissant One";
-    src: url('fonts/CroissantOne-Regular.ttf') format('truetype');
+    src: url('CroissantOne-Regular.ttf') format('truetype');
   }
   
   html {
